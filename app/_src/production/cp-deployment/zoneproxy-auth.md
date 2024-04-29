@@ -15,7 +15,7 @@ that is mounted in every pod.
 
 ## Zone Token
 
-On Universal, a zone proxy proxy must be explicitly configured with a unique
+On Universal, a zone proxy must be explicitly configured with a unique
 security token (Zone token) with appropriate scope (`egress`, `ingress`), that will be used
 to prove its identity.
 
